@@ -23,14 +23,14 @@ repository               : "https://arnoor.github.io/portfolio/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "arn_2.jpg"
+  name             : "Abrar Rafid Noor"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Samsung Research & Development Institute, Bangladesh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abrarrafid123@gmail.com" 
 
   # Academic websites
   academia         : # URL
